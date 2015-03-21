@@ -1,0 +1,7 @@
+C:\Users\Mala\AndroidStudioProjects\BasicTransition\Application\build\intermediates\classes\debug
+C:\Users\Mala\AndroidStudioProjects\BasicTransition\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-494309bebb13672f3e451d98afe22e28738fc0db.jar
+C:\Users\Mala\AndroidStudioProjects\BasicTransition\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-c471e42925a59755798a7755c5e77ebc253c68fa.jar
+C:\Users\Mala\AndroidStudioProjects\BasicTransition\Application\build\intermediates\pre-dexed\debug\classes-42c264bd8b1e424079258383ac1f578a82d861df.jar
+C:\Users\Mala\AndroidStudioProjects\BasicTransition\Application\build\intermediates\pre-dexed\debug\classes-a1dda052c103e174ed9bc9ed4db86416c6f592ac.jar
+C:\Users\Mala\AndroidStudioProjects\BasicTransition\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-9030712ff9dfd09673195167153adee2a8f58a2b.jar
+C:\Users\Mala\AndroidStudioProjects\BasicTransition\Application\build\intermediates\pre-dexed\debug\classes-bb1225a2290c7c57e3cf11541c88334a19da6b20.jar
